@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Stev2520
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m Steve
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning some stuff
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: stevenhany@gmail.com
 
